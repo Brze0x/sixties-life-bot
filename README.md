@@ -11,6 +11,17 @@ To run the bot, you'll need the following software installed on your machine:
 ```
 git clone https://github.com/your-username/news-bot.git
 ```
+- Create a virtual environment and activate it:
+For Windows:
+```
+python -m venv venv
+venv\Scripts\activate
+```
+For Linux:
+```
+python3 -m venv venv
+source venv/bin/activate
+```
 - Install the required Python packages:
 ```
 pip install -r requirements.txt
