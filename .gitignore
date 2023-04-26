@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.tmp
+
+# Environments
+.devenv
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# logs
+*.log
+
+# Other pyfiles
+old.py
+features.py
+telegraph.py
+*.db
+data/
